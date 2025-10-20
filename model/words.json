@@ -1,5 +1,75 @@
 {
-  "ord": ["skumbanan", "minecraftbot"],
-  "korrekt": ["DU SNYDER", "BEDRAGERI"],
-  "forkert": ["Skulle have fulgt med i undervisningen..", "Du bliver aldrig til noget!"]
+  "words": [
+    {
+      "word": "skumbanan",
+      "hint": "Looks sweet, tastes like a factory mistake"
+    },
+    {
+      "word": "rizzlord",
+      "hint": "Flirts like it’s a tax deduction"
+    },
+    {
+      "word": "gyatt",
+      "hint": "Something you say when words fail and brain leaves"
+    },
+    {
+      "word": "sigma",
+      "hint": "Pretends to be mysterious, just lonely with Wi-Fi"
+    },
+    {
+      "word": "delulu",
+      "hint": "It’s not denial, it’s ✨manifestation✨"
+    },
+    {
+      "word": "npcmoment",
+      "hint": "When you realize you just blinked through an entire day"
+    },
+    {
+      "word": "skibidi",
+      "hint": "The sound of civilization collapsing gracefully"
+    },
+    {
+      "word": "based",
+      "hint": "So confident it loops back to questionable"
+    },
+    {
+      "word": "aura",
+      "hint": "You don’t have style, you *radiate* it (allegedly)"
+    },
+    {
+      "word": "goobert",
+      "hint": "A silly little guy, fighting for his life emotionally"
+    },
+    {
+      "word": "fanumtax",
+      "hint": "When your friend steals a fry like it’s law"
+    },
+    {
+      "word": "brainrot",
+      "hint": "Caused by TikTok exposure over recommended dose"
+    },
+    {
+      "word": "mid",
+      "hint": "Not bad, not good, just aggressively existing"
+    },
+    {
+      "word": "glazed",
+      "hint": "That 4 a.m. stare into the fridge type beat"
+    },
+    {
+      "word": "ratio",
+      "hint": "Social media combat, bloodless but brutal"
+    }
+  ],
+  "korrekt": [
+    "DU SNYDER",
+    "BEDRAGERI",
+    "DET HAR JEG IKKE LÆRT JER",
+    "du må KUN bruge et return statement",
+    "Jeg breaker dine armer, hvis du ikke snart stopper"
+  ],
+  "forkert": [
+    "Skulle have fulgt med i undervisningen..",
+    "Du bliver aldrig til noget!"
+  ]
 }
